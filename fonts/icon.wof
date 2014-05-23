@@ -1,0 +1,14 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>300 Multiple Choices</title>
+</head><body>
+<h1>Multiple Choices</h1>
+The document name you requested (<code>/fonts/icon.wof</code>) could not be found on this server.
+However, we found documents with names similar to the one you requested.<p>Available documents:
+<ul>
+<li><a href="/fonts/icon.eot">/fonts/icon.eot</a> (common basename)
+<li><a href="/fonts/icon.svg">/fonts/icon.svg</a> (common basename)
+<li><a href="/fonts/icon.ttf">/fonts/icon.ttf</a> (common basename)
+<li><a href="/fonts/icon.woff">/fonts/icon.woff</a> (common basename)
+</ul>
+</body></html>
