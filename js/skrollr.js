@@ -1522,7 +1522,7 @@
 
 		if(_forceHeight && !_isMobile) {
 			//"force" the height.
-			body.style.height = (_maxKeyFrame + documentElement.clientHeight) + 'px';
+			//body.style.height = (_maxKeyFrame + documentElement.clientHeight) + 'px';
 		}
 
 		//The scroll offset may now be larger than needed (on desktop the browser/os prevents scrolling farther than the bottom).
