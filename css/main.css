@@ -257,10 +257,6 @@ h1, h2, h3, h4, h5, h6, p {
             transition: opacity 0.2s 1.6s ease-out;     
 }
 
-.menu-icon.jiji {
-    opacity: 0;
-}
-
 .menu-icon span {
     width: 41px;
     height: 2px;
@@ -477,12 +473,6 @@ h1, h2, h3, h4, h5, h6, p {
        -moz-transition: opacity 0.2s 1.6s ease-out;
          -o-transition: opacity 0.2s 1.6s ease-out;
             transition: opacity 0.2s 1.6s ease-out;
-}
-
-.home-title.jiji h1,
-.home-title.jiji h2,
-.home-title.jiji a {
-    opacity: 0;
 }
 
 /* ==========================================================================

@@ -66,8 +66,6 @@ $(window).load(function() {
 	fixSizes();
 	$(".loader").delay(500).fadeOut('slow');
 	$("body").css("overflow", "auto");
-	$(".home-title").removeClass("jiji");
-	$(".menu-icon").removeClass("jiji");
 	
 });
 
