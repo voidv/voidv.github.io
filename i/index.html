@@ -9,7 +9,9 @@
         <script>
             document.write(navigator.userAgent);
             document.write("<br>");
-            document.write(screen.orientation);
+            for(var i in screen.orientation){
+                document.write(i+':'+screen.orientation[i]);
+            }
         </script>
         <br>
         <a href="javascript:alert(typeof orientation)">windowOrientation</a>
