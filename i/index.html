@@ -8,7 +8,14 @@
     <body style="font-size:30px;">
         <script>
             document.write(navigator.userAgent);
+            document.write("<br>");
+            document.write(screen.orientation);
         </script>
-        <a href="javascript:alert(typeof orientation)">Orientation Test</a>
+        <br>
+        <a href="javascript:alert(typeof orientation)">windowOrientation</a>
+        <br>
+        <a href="javascript:alert(typeof screen.orientation)">screenOrientation</a>
+        <br>
+        <a href="javascript:alert(typeof screen.mozOrientation)">mozOrientation</a>
     </body>
 </html>
